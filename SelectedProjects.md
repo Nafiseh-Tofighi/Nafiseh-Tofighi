@@ -1,5 +1,6 @@
 # Real-Time Event-Based Communication using Optical Markers for Swarm of Drones
 **Skills & Tools:** Python, Metavision SDK, event-based vision, Object tracking, OpenCV, Arduino, signal encoding/decoding, real-time visualization, feature extraction, event processing algorithms, hardware integration, drone communication
+
 **Description:** Developed a real-time communication system for drone swarms using event cameras to detect and decode optical markers (LED signals). Combined Metavision SDK with custom encoding and decoding pipelines to ensure reliable message transmission between moving drones. Integrated Arduino for LED control, enabling lightweight and robust optical communication in dynamic environments.
 
 
