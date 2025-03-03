@@ -1,3 +1,8 @@
+# Real-Time Event-Based Communication using Optical Markers for Swarm of Drones
+**Skills & Tools:** Python, Metavision SDK, event-based vision, Object tracking, OpenCV, Arduino, signal encoding/decoding, real-time visualization, feature extraction, event processing algorithms, hardware integration, drone communication
+**Description:** Developed a real-time communication system for drone swarms using event cameras to detect and decode optical markers (LED signals). Combined Metavision SDK with custom encoding and decoding pipelines to ensure reliable message transmission between moving drones. Integrated Arduino for LED control, enabling lightweight and robust optical communication in dynamic environments.
+
+
 # Heuristics to Identify Attention Points in Visual Documents & Evaluate Algorithm
 **Nafiseh Jabbari Tofighi and Hessam Kaveh, Scientific-Research Conference Mechanics, Electrical, Computer and Engineering Sciences, Azerbaijan, 2020**  
 **Skills & Tools:** Python, OpenCV, heuristic analysis, feature extraction, keypoint detection, region of interest (ROI) extraction  
