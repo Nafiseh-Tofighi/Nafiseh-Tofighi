@@ -10,6 +10,10 @@
 **Description:** Built a dataset and model to analyze how images in social media posts influence public sentiment toward sociopolitical events (e.g., Black Lives Matter, Women’s March). Used BERT for comment sentiment analysis and manually labeled images. Results showed strong correlation between visual content and user sentiment, highlighting the power of images in shaping opinions. This work has been submitted and revised for a journal and is currently awaiting final decision from the reviewers.
 
 
+### EEG-Based Detection of Neurological Disorders
+**Skills & Tools:** Python, signal processing, EEG analysis, feature extraction, noise filtering  
+**Description:** Analyzed EEG signals to identify patterns associated with neurological disorders. Used signal processing techniques and statistical analysis to detect anomalies indicative of cognitive dysfunctions.
+
 
 # Heuristics to Identify Attention Points in Visual Documents & Evaluate Algorithm
 **Nafiseh Jabbari Tofighi and Hessam Kaveh, Scientific-Research Conference Mechanics, Electrical, Computer and Engineering Sciences, Azerbaijan, 2020**  
@@ -35,6 +39,14 @@
 # High-Resolution Image Mosaicking for Medical Imaging: Combining Multiple Scans to Enhance Diagnostic Accuracy
 **Skills & Tools:** Python, image stitching, medical imaging, diagnostic accuracy, image alignment, feature matching, blending techniques  
 **Description:** Developed advanced stitching techniques to combine multiple medical images, such as MRI and CT scans, resulting in enhanced diagnostic accuracy and comprehensive patient views.
+
+### Cognitive Load Estimation from Eye Tracking Data
+**Skills & Tools:** Python, eye tracking, data analysis, statistical modeling, visual attention modeling, cognitive science  
+**Description:** Developed algorithms to estimate cognitive load based on eye movement patterns during complex visual tasks. The project involved extracting fixation and saccade features to understand attention and processing effort. Findings contributed to better understanding of how users interact with information under mental stress.
+
+### Reaction Time and Decision-Making Analysis in Cognitive Tasks
+**Skills & Tools:** Python, cognitive psychology, behavioral data analysis, statistical modeling, experimental design  
+**Description:** Conducted a study to measure human reaction times and decision accuracy under varying cognitive loads. Designed and implemented tasks mimicking real-life scenarios to evaluate cognitive performance. Applied statistical models to identify trends and assess how stressors impact brain function.
 
 # Advanced Image Stitching Techniques Using Deep Learning: Enhancing Quality and Consistency in Panoramic Photos
 **Skills & Tools:** Python, Keras, neural networks, deep learning, image stitching, quality improvement, image alignment, feature matching, blending techniques  
